@@ -1,0 +1,13 @@
+.con-bordes {
+    border: solid black 1px;
+}
+
+.back {
+    background: url("https://i.pinimg.com/originals/49/2a/bf/492abf672dc739e606852a4f93e40ad8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.inverted {
+    filter: invert(50%);
+}
